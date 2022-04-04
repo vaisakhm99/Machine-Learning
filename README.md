@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine Learning course by Stanford University  
+Solutions to the machine Learning course by Stanford University  
